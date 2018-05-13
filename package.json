@@ -1,0 +1,52 @@
+{
+  "name": "StockholmTheme",
+  "publisher": "ludviglundgen",
+  "author": "Ludvig Lundgren",
+  "displayName": "Stockholm",
+  "version": "1.0.0",
+  "description": "A theme for Visual Studio Code inspierd by Sandbox.io",
+  "galleryBanner": {
+    "color": "#31364A",
+    "theme": "dark"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "material theme",
+    "material",
+    "codesandbox",
+    "codesandbox.io",
+    "dark"
+  ],
+  "repository": {
+    "url": "https://github.com/ludviglundgren/vscode-stockholm-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/ludviglundgren/vscode-stockholm-theme/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "scripts": {
+    "start": "nodemon --exec vsce package",
+    "build": "nodemon --watch src src"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stockholm Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/stockholm-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1",
+    "vsce": "^1.31.0"
+  }
+}
