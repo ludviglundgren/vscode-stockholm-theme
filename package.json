@@ -1,10 +1,10 @@
 {
   "name": "StockholmTheme",
-  "publisher": "ludviglundgen",
+  "publisher": "LudvigLundgren",
   "author": "Ludvig Lundgren",
   "displayName": "Stockholm",
   "version": "1.0.0",
-  "description": "A theme for Visual Studio Code inspierd by Sandbox.io",
+  "description": "A theme for Visual Studio Code inspierd by codesandbox.io",
   "galleryBanner": {
     "color": "#31364A",
     "theme": "dark"

@@ -2,7 +2,7 @@
 
 A theme for Visual Studio Code inspired by codesandbox.io.
 
-![Theme Preview](https://res.cloudinary.com/dvodhv3js/image/upload/v1526242059/GITREPO_vscode-stockholm-theme/Screen_Shot_2018-05-13_at_22.06.59.png)
+![Theme Preview](https://res.cloudinary.com/dvodhv3js/image/upload/v1526244803/GITREPO_vscode-stockholm-theme/vscode-stockholm-theme.png)
 
 # Installation
 
