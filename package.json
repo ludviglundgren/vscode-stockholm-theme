@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "description": "A theme for Visual Studio Code inspierd by codesandbox.io",
   "galleryBanner": {
-    "color": "#31364A",
+    "color": "#1c2022",
     "theme": "dark"
   },
   "icon": "icon.png",
