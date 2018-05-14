@@ -10,7 +10,7 @@ A theme for Visual Studio Code inspired by codesandbox.io.
 1. Search for `Stockholm`, choose "Stockholmn Theme" by **ludviglundgren**
 1. Click **Install** to install it
 1. Click **Reload** to reload your editor
-1. Navigate to File > Preferences > Color Theme > **Palenight Theme** or any of the variants listed
+1. Navigate to File > Preferences > Color Theme > **Stockholm Theme** or any of the variants listed
 
 ## Contributing
 
